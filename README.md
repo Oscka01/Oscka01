@@ -1,5 +1,9 @@
 ### Hello, world! :)
 
+I’m currently a Physics undergraduate student 🔭🌌✨
+
+
+
 <!--
 **Oscka01/Oscka01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
